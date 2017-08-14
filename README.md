@@ -3,9 +3,8 @@ This will be a web application that modders of total war can use to create new u
 
 
 Useful links:
-http://www.twcenter.net/forums/showthread.php?730823-PFM-4-1-2-Warhammer-support
+[Current pack file manager 14/08/2017](http://www.twcenter.net/forums/showthread.php?730823-PFM-4-1-2-Warhammer-support)
 
-http://www.twcenter.net/forums/showthread.php?749888-Sebidee-s-Complete-Guide-to-Warhammer-Unit-Modding
+[Guide for creating Warhammer units manually](http://www.twcenter.net/forums/showthread.php?749888-Sebidee-s-Complete-Guide-to-Warhammer-Unit-Modding)
 
-(Pack File Manager Source Code)
-https://1drv.ms/f/s!ApBOQc3PnOGTgswQJ3hqmIiA8i77_w
+[Pack File Manager Source Code](https://1drv.ms/f/s!ApBOQc3PnOGTgswQJ3hqmIiA8i77_w)
